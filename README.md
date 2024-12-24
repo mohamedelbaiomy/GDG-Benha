@@ -1,7 +1,7 @@
-# GDG Benha projects!
+# Flutter open source projects!
 
 
-This repository contains all the projects we have done in GDG Benha Season 2024 ✨
+This repository contains several projects i have done ✨
 
 ## Gallery
 
